@@ -9,7 +9,7 @@
 
 .pokemon-details-container {
   width: calc(100vw - 1.5rem);
-  max-height: 89vh;
+  max-height: 89svh;
   margin: 0;
   display: flex;
   flex-direction: column;
