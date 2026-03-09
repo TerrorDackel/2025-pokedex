@@ -127,11 +127,11 @@ footer {
   display: flex;
   justify-content: center;
   align-items: center;
-  flex-direction: row-reverse;
   max-height: 80px;
   height: 80px;
   width: 100%;
   background-color: black;
+  margin: 0 0 1rem 0;
 }
 
 .footer-img {
@@ -140,7 +140,11 @@ footer {
 }
 
 .load-more-btn {
+  width: 130px;
+  height: 30px;
   display: flex;
+  align-items: center;
+  justify-content: center;
   background-color: yellow;
   padding: 0.5rem 1rem;
   font-size: 1rem;
@@ -149,6 +153,7 @@ footer {
   border-radius: 0.5rem;
   transform-style: preserve-3d;
   cursor: pointer;
+  margin-bottom: 2.5rem;
 }
 
 .load-more-btn-txt {
