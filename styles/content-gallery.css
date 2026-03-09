@@ -30,6 +30,7 @@
 
 .pokemon-gallery {
   width: 100%;
+  height: calc(100svh - (124px + 80px));
   display: flex;
   justify-content: center;
   align-items: flex-start;
