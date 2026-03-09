@@ -135,13 +135,13 @@ footer {
 }
 
 .footer-img {
-  height: 60px;
+  height: 30px;
   bottom: 100px;
 }
 
 .load-more-btn {
   width: 130px;
-  height: 30px;
+  height: 40px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -153,7 +153,7 @@ footer {
   border-radius: 0.5rem;
   transform-style: preserve-3d;
   cursor: pointer;
-  margin-bottom: 2.5rem;
+
 }
 
 .load-more-btn-txt {
